@@ -9,7 +9,8 @@ I am a Junior Developer from South Africa 🇿🇦.
 🖇 How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
 
-🛠  ## Languages and Tools :
+## Languages and Tools 🛠:
+
 🌕 JavaScript
 🔵 CSS
 🔴 HTML
