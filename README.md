@@ -1,7 +1,7 @@
 # lethabo-here
 Hey there, Lethabo here 👋
 
-👩‍💻 ## About Me :
+## About Me 👩‍💻:
 I am a Junior Developer from South Africa 🇿🇦.
 
 🦾 I’m a new Software Developer working on expanding my skills in frontend and backend development.
