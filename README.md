@@ -13,11 +13,14 @@ https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
 ### Languages and Tools 🛠:
 🌕 JavaScript
+
 🔵 CSS
+
 🔴 HTML
 
 ### In Progress ⛏:
 🌌 React 
+
 🟢 Node.js
 
 ### My Stats 🔥:
