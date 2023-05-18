@@ -1,4 +1,4 @@
-# lethabo-here
+### lethabo-here
 Hey there, Lethabo here 👋
 
 ## About Me 👩‍💻:
@@ -17,4 +17,5 @@ Hey there, Lethabo here 👋
 🌌 React 
 🟢 Node.js
 
+![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethabomathabatha&show_icons=true&theme=radical)
 
