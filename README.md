@@ -18,4 +18,5 @@ Hey there, Lethabo here 👋
 🟢 Node.js
 
 ### My Stats 🔥:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-lethabomathabatha&theme=dark&background=000000)](https://git.io/streak-stats)
 
