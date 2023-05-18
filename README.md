@@ -6,9 +6,8 @@
 
 🎡 I find great joy in UI/UX design. 
 
+🖇How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
-### How to reach me 🖇: 
-https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
 
 ### Languages and Tools 🛠:
@@ -18,10 +17,11 @@ https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
 🔴 HTML
 
+
 ### In Progress ⛏:
 🌌 React 
 
 🟢 Node.js
 
-### My Stats 🔥:
+## My Stats 🔥:
 [![GitHub Streak](https://streak-stats.demolab.com?user=lethabomathabatha&theme=transparent&hide_border=true&border_radius=14&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
