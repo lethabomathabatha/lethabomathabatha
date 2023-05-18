@@ -17,5 +17,4 @@ Hey there, Lethabo here 👋
 🌌 React 
 🟢 Node.js
 
-![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethabomathabatha&show_icons=true&theme=radical)
-
+![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethabomathabatha&show_icons=true&theme=transparent)
