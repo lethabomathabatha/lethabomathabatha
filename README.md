@@ -2,11 +2,11 @@
 
 ### About Me 👩‍💻:
 
-🦾 I’m a new Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
+##### 🦾 I’m a Junior Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
 
 🎡 I find great joy in UI/UX design. 
 
-🖇How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
+🖇 How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
 
 
