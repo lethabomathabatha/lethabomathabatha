@@ -2,29 +2,24 @@
 
 ### About Me 👩‍💻:
 
-🦾 I’m a Junior Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
+🔆 I’m a Junior Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
 
-🎡 I find great joy in UI/UX design. 
+🔆 I find great joy in UI/UX design. 
 
-🖇 How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
+🔆 How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
-Have a look at my latest project, a mini book search engine - [Book Connect](https://github.com/lethabomathabatha/LETMAT077_FTO2301_GroupB_LethaboMathabatha_IWA19.git)
+🔆 Have a look at my latest project, a mini book search engine - [Book Connect](https://github.com/lethabomathabatha/LETMAT077_FTO2301_GroupB_LethaboMathabatha_IWA19.git)
 
 
 ### Languages and Tools:
 🌕 JavaScript
-
 🔵 CSS
-
 🔴 HTML
 
 
 ### In Progress:
 🌌 React 
-
 🟢 Node.js
-
-
 
 
 
