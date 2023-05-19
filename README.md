@@ -26,7 +26,7 @@
 
 
 #
-## My Stats:
+### My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=lethabomathabatha&theme=transparent&border_radius=8&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)                                                                                      
 
 
