@@ -26,4 +26,4 @@
 ## My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=lethabomathabatha&theme=transparent&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethabomathabatha&layout=donut&theme=transparent&border_radius=8)](https://github.com/lethabomathabatha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethabomathabatha&layout=donut&theme=transparent&border_radius=8card_width=495)](https://github.com/lethabomathabatha/github-readme-stats)
