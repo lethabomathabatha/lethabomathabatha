@@ -2,7 +2,7 @@
 
 ### About Me 👩‍💻:
 
-##### 🦾 I’m a Junior Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
+🦾 I’m a Junior Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
 
 ##### 🎡 I find great joy in UI/UX design. 
 
