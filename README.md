@@ -1,6 +1,6 @@
 ## Hey there, Lethabo here 👋
 
-**About Me 👩‍💻:**
+### About Me 👩‍💻:
 
 🔆 I’m a Junior Software Developer from South Africa actively expanding my skills in frontend and backend development langauges and frameworks
 
@@ -11,13 +11,13 @@
 🔆 Have a look at my latest project, a mini book search engine - [Book Connect](https://github.com/lethabomathabatha/LETMAT077_FTO2301_GroupB_LethaboMathabatha_IWA19.git)
 
 
-**Languages and Tools:**
+### Languages and Tools:
 🌕 JavaScript
 🔵 CSS
 🔴 HTML
 
 
-**In Progress:**
+### In Progress:
 🌌 React 
 🟢 Node.js
 
