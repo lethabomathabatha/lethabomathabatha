@@ -10,20 +10,25 @@
 
 🔆 Have a look at my latest project, a mini book search engine - [Book Connect](https://github.com/lethabomathabatha/LETMAT077_FTO2301_GroupB_LethaboMathabatha_IWA19.git)
 
-
+#
 ### Languages and Tools:
-🌕 JavaScript
-🔵 CSS
-🔴 HTML
+🔆 JavaScript
 
+🔆 CSS
 
+🔆 HTML
+
+#
 ### In Progress:
-🌌 React 
-🟢 Node.js
+🔅 React 
+
+🔅 Node.js
 
 
-
+#
 ## My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=lethabomathabatha&theme=transparent&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lethabomathabatha&theme=transparent&border_radius=8&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)                                                                                      
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethabomathabatha&layout=donut&theme=transparent&border_radius=8card_width=495)](https://github.com/lethabomathabatha/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethabomathabatha&layout=donut&theme=transparent&border_radius=8&card_width=310)](https://github.com/lethabomathabatha/github-readme-stats) <img src="https://github.com/lethabomathabatha/lethabomathabatha/assets/118384529/74d42b31-1ed1-458d-aadd-ea14b191fd0c-removebg-preview" width="250" alt="GitHub Mascot">
+
