@@ -10,7 +10,7 @@
 
 
 
-### Languages and Tools 🛠:
+### Languages and Tools:
 ##### 🌕 JavaScript
 
 ##### 🔵 CSS
@@ -18,10 +18,10 @@
 ##### 🔴 HTML
 
 
-### In Progress ⛏:
+### In Progress:
 ##### 🌌 React 
 
 ##### 🟢 Node.js
 
-## My Stats 🔥:
+### My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=lethabomathabatha&theme=transparent&hide_border=true&border_radius=14&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
