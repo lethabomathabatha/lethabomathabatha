@@ -12,17 +12,11 @@
 
 #
 ### Languages and Tools:
-🔆 JavaScript
-
-🔆 CSS
-
-🔆 HTML
+🔆 JavaScript    🔆 CSS     🔆 HTML
 
 #
 ### In Progress:
-🔅 React 
-
-🔅 Node.js
+🔅 React    🔅 Node.js
 
 
 #
