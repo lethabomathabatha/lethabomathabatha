@@ -34,7 +34,7 @@
 
 #
 ### In Progress:
-🔅 React  🔅 PHP  
+🔅 React  
 
 
 #
