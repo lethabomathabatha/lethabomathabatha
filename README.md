@@ -30,11 +30,11 @@
 
 #
 ### Languages and Tools:
-🔆 JavaScript    🔆 CSS     🔆 HTML    🔅 React.js   🔆 Node.js
+🔆 JavaScript   🔅 TypeScript   🔆 CSS     🔆 HTML    🔅 React.js   
 
 #
 ### In Progress:
-🔅 TypeScript     🔅 Svelte 
+🔅 Svelte 🔅 Vue 
 
 
 #
