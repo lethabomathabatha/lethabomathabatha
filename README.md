@@ -26,7 +26,7 @@
 
 🔆 How to reach me: https://www.linkedin.com/in/lethabo-mathabatha-455a8b18a/
 
-🔆 Have a look at my latest project, a mini book search engine - [Book Connect](https://github.com/lethabomathabatha/LETMAT077_FTO2301_GroupB_LethaboMathabatha_IWA19.git)
+🔆 Have a look at my [portfolio website](https://lethabomathabatha.github.io/lethabo-portfolio/)
 
 #
 ### Languages and Tools:
