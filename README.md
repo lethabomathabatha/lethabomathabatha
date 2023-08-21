@@ -34,7 +34,7 @@
 
 #
 ### In Progress:
-🔅 Svelte 🔅 Vue 
+🔅 Vue 
 
 
 #
