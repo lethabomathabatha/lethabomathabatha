@@ -34,7 +34,7 @@
 
 #
 ### In Progress:
-🔅 Vue 
+🔅 Angular    🔅 Vue 
 
 
 #
