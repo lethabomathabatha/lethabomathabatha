@@ -34,7 +34,7 @@
 
 #
 ### In Progress:
-🔅 Angular    🔅 Vue 
+🔅 PHP    🔅 Laravel 
 
 
 #
