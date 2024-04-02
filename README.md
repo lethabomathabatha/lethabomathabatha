@@ -28,13 +28,10 @@
 
 🔆 Have a look at my [portfolio website](https://lethabomathabatha.github.io/lethabo-portfolio/)
 
-#
-### Languages and Tools:
-🔆 JavaScript   🔅 TypeScript   🔆 CSS     🔆 HTML    🔅 React.js   
 
 #
-### In Progress:
-🔅 PHP    🔅 Laravel 
+### Languages and Tools:
+🔆 JavaScript   🔅 TypeScript   🔆 CSS     🔆 HTML    🔅 React.js    🔅 PHP    🔅 Laravel 
 
 
 #
