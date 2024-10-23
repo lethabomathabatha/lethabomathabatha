@@ -31,7 +31,7 @@
 
 #
 ### Languages and Tools:
-🔆 JavaScript   🔅 TypeScript   🔆 CSS     🔆 HTML    🔅 React.js    🔅 PHP    🔅 Laravel    🔅 Figma
+🔆 JavaScript   🔅 TypeScript   🔆 CSS     🔆 HTML    🔅 React.js    🔅 PHP    🔅 Laravel    🔅 MySQL    🔅 Express.js    🔅 Figma
 
 
 #
