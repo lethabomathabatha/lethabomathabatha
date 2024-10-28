@@ -11,7 +11,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer.;Budding%20UI%2FUX%20Designer.;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f5b616&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer.;Budding%20UI%2FUX%20Designer.;Data%20Analytics%20Enthusiast.;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f5b616&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
