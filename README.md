@@ -33,6 +33,9 @@
 ### Languages and Tools:
 🔆 JavaScript   🔅 TypeScript   🔆 CSS     🔆 HTML    🔅 React.js    🔅 PHP    🔅 Laravel    🔅 MySQL    🔅 Node.js    🔅 Express.js    🔅 Power BI
 
+### Learning:
+🔆 C++
+
 
 #
 ### My Stats:
